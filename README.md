@@ -12,11 +12,35 @@ Puedes acceder a la web correspondiente para informarte de más cursos.</p>
 # 🖥️ Cursos gratuitos SEPE España (Trabajadores en activo) en castellano
 <h3><u>Desarrollo Web</u></h3>
 <li><a href = "https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/932">Aprende WordPress de forma sencilla (30 horas)</a></li>
-<li><a href ="https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/934">Diseño Web con HTML5 + CSS (30 horas)</a></li>
-<li> <a href = "https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/938">Introducción al diseño de videojuegos (30 horas)</a></li>
-<li><a href="https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/939">Programación con Java Standard (40 horas)</a></li>
-<li><a href="https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/940">Programación con JavaScript (40 horas)</a></li>
-<li><a href="https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/954">Curso de Introducción al Desarrollo Web HTML y CSS (1/2) (40 horas)</li>
+<li><a href = "https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/934">Diseño Web con HTML5 + CSS (30 horas)</a></li>
+<li><a href = "https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/938">Introducción al diseño de videojuegos (30 horas)</a></li>
+<li><a href = "https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/939">Programación con Java Standard (40 horas)</a></li>
+<li><a href = "https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/940">Programación con JavaScript (40 horas)</a></li>
+<li><a href = "https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/954">Curso de Introducción al Desarrollo Web HTML y CSS (1/2) (40 horas)</li>
 <li><a href = "https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/955">Curso de Introducción al Desarrollo Web: HTML y CSS (2/2) (40 horas)</a></li>
-<li><a href= "https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/2543">Desarrollo Web en Python (53 horas)</a></li>
+<li><a href = "https://digitalizateplus.fundae.es/buscador/fichadigitalizate/1/2543">Desarrollo Web en Python (53 horas)</a></li>
 
+# 💻 Cursos Gratuitos Cisco Systems
+
+<p>Estos cursos gratuitos te dan la posibilidad de accder a un certificado emitido por Cisco Systems, estos cursos además de estar en castellano, los puedes encontrar
+en varios idiomas más.</p>
+</br>
+<li><a href = "https://skillsforall.com/es/course/cyber-threat-management?courseLang=es-XL">Administración de Amenazas Cibernéticas</a></li>
+<li><a href = "https://skillsforall.com/es/course/networking-basics?courseLang=es-XL">Conceptos básicos de redes</a></li>
+<li><a href = "https://skillsforall.com/es/course/exploring-networking-cisco-packet-tracer?courseLang=es-XL">Exploración de redes con Cisco Packet Tracer *</a></li>
+<li><a href = "https://skillsforall.com/es/course/python-essentials-1?courseLang=es-XL">Fundamentos de Python 1</a></li>
+<li><a href = "https://skillsforall.com/es/course/python-essentials-2?courseLang=es-XL">Fundamentos de Python 2</a></li>
+<li><a href = "https://skillsforall.com/es/course/introduction-data-science?courseLang=es-XL">Introducción a la Ciencia de Datos</a></li>
+  
+</br>
+<p>* El curso de "Exploración de redes con Cisco Packet Tracer" te lo recomiendo ya que es una aplicación que se utiliza en algunas de las certificaciones, tambien en las
+carreras profesionales.</p>
+
+
+
+<h3> 🔬 Carrera Profesional Cisco System </h3>
+<li><a href = "https://skillsforall.com/es/career-path/cybersecurity?courseLang=es-XL">Analista Junior en Ciberseguridad</a></li>
+<p>Este curso se compone de diferentes temarios que te irán habilitando como analista junior en Ciberseguridad, además conseguiras cada una de las 
+acreditaciones que obtengas.</p>
+<li><a href = "https://skillsforall.com/es/career-path/network-technician?courseLang=es-XL">Carrera Profesional de Técnico en Redes</a></li>
+<p>Este curso al igual que el anterior te dara la posibilidad de ir adquiriendo diferentes certificaciones de Cisco Systems.</p>
