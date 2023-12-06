@@ -44,3 +44,8 @@ carreras profesionales.</p>
 acreditaciones que obtengas.</p>
 <li><a href = "https://skillsforall.com/es/career-path/network-technician?courseLang=es-XL">Carrera Profesional de Técnico en Redes</a></li>
 <p>Este curso al igual que el anterior te dara la posibilidad de ir adquiriendo diferentes certificaciones de Cisco Systems.</p>
+
+# Microsoft Learn
+
+<p>Microsoft ofrece una de las más amplias gamas de cursos, orientados a muchos temas, dentro de cada categoría hay una gran cantidad de cursos que podemos seleccionar para crear nuestra propia ruta de aprendizaje</p>
+
