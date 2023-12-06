@@ -45,7 +45,26 @@ acreditaciones que obtengas.</p>
 <li><a href = "https://skillsforall.com/es/career-path/network-technician?courseLang=es-XL">Carrera Profesional de Técnico en Redes</a></li>
 <p>Este curso al igual que el anterior te dara la posibilidad de ir adquiriendo diferentes certificaciones de Cisco Systems.</p>
 
-# Microsoft Learn
+# 🖥️ Microsoft Learn
 
 <p>Microsoft ofrece una de las más amplias gamas de cursos, orientados a muchos temas, dentro de cada categoría hay una gran cantidad de cursos que podemos seleccionar para crear nuestra propia ruta de aprendizaje</p>
+</br>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=dotnet">.Net</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=azure">Azure</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=microsoft-authentication-library">Biblioteca de autenticación de Microsoft</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=bing">Bing</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=consumer">Consumidor</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=copilot">Copilot</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=dynamics-365">Dynamics 365</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=flip">Flip</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=github">GitHub</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=hololens">Hololens</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=sql-server">Sql Server</a></li>
+<li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=vs-code">Visual Studio Code</a></li>
+</br>
+<p>Te recomiendo que medites muy bien los cursos que quieras seguir a la hora de crear tu ruta, y no te lances a seleccionar todos, ya que quizás te sientas abrumado y decidas dejarlo antes de coneguir tus objetivos.</p>
+
+
+
+
 
