@@ -69,7 +69,7 @@ acreditaciones que obtengas.</p>
 <p>Estos cursos son inglés, pero se entienden bastante bien.</p>
 </br>
 <li><a href = "https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design</a></li>
-<li><<a href = "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">Certificación de Algoritmos de JavaScript y Estructuras de Datos</a></li>
+<li><a href = "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">Certificación de Algoritmos de JavaScript y Estructuras de Datos</a></li>
 <li><a href = "https://www.freecodecamp.org/learn/front-end-development-libraries/">Certificación de Librerías de Desarrollo de Interfaz</a></li>
 <li><a href = "https://www.freecodecamp.org/learn/data-visualization/">Certificación de Visualización de Datos</a></li>
 <li><a href = "https://www.freecodecamp.org/learn/back-end-development-and-apis/">Certificación en Desarrollo Back End y APIs</a></li>
