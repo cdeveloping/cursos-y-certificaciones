@@ -63,6 +63,22 @@ acreditaciones que obtengas.</p>
 <li><a href = "https://learn.microsoft.com/es-es/training/browse/?products=vs-code">Visual Studio Code</a></li>
 </br>
 <p>Te recomiendo que medites muy bien los cursos que quieras seguir a la hora de crear tu ruta, y no te lances a seleccionar todos, ya que quizás te sientas abrumado y decidas dejarlo antes de coneguir tus objetivos.</p>
+</br>
+
+# 🖥️ FreeCodeCamp
+<p>Estos cursos son inglés, pero se entienden bastante bien.</p>
+</br>
+<li><a href = "https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design</a></li>
+<li><<a href = "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">Certificación de Algoritmos de JavaScript y Estructuras de Datos</a></li>
+<li><a href = "https://www.freecodecamp.org/learn/front-end-development-libraries/">Certificación de Librerías de Desarrollo de Interfaz</a></li>
+<li><a href = "https://www.freecodecamp.org/learn/data-visualization/">Certificación de Visualización de Datos</a></li>
+<li><a href = "https://www.freecodecamp.org/learn/back-end-development-and-apis/">Certificación en Desarrollo Back End y APIs</a></li>
+<li><a href = "https://www.freecodecamp.org/learn/quality-assurance/">Certificación de QA Testing</a></li>
+<li><a href = "https://www.freecodecamp.org/learn/scientific-computing-with-python/">Certificación de Cálculo Científico con Python</a></li>
+<li><a href = "https://www.freecodecamp.org/learn/data-analysis-with-python/">Certificación de Análisis de Datos con Python</a></li>
+<li><a href = "https://www.freecodecamp.org/learn/machine-learning-with-python/">Certificación de Aprendizaje Automático con TensorFlow</a></li>
+<li><a href = "https://www.freecodecamp.org/learn/college-algebra-with-python/">Álgebra universitaria con Python</a></li>
+
 
 
 
